@@ -1,3 +1,4 @@
 markitdown/
 *.txt
 *.md
+!README.md
